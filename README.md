@@ -1,4 +1,8 @@
 testStatsD
 ==========
 
-Sending simple UDP request to StatsD to test Graphite.
+Sending simple UDP request in node.js to StatsD to test Graphite.
+
+
+Usage:
+node test.js
